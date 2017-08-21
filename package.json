@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Polymer/sinon.js/issues"
   },
-  "homepage": "https://github.com/Polymer/sinon.js#readme"
+  "homepage": "https://github.com/Polymer/sinon.js#readme",
+  "publishConfig": {
+  ¦ "access": "public"
+  }
 }
