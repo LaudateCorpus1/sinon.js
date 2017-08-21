@@ -1,5 +1,5 @@
 {
-  "name": "sinonjs",
+  "name": "@polymer/sinonjs",
   "version": "1.17.1",
   "description": "SinonJS proxy repository for the BowerJS package manager",
   "main": "sinon.js",
