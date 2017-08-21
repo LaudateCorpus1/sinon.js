@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Polymer/sinon.js#readme",
   "publishConfig": {
-  ¦ "access": "public"
+    "access": "public"
   }
 }
